@@ -1,0 +1,2 @@
+/Users/paulinec/Documents/Code/ITP/Thesis/RoomBuilder/obj/Debug/UnityEditor.TestRunner.csproj.AssemblyReference.cache
+/Users/paulinec/Documents/Code/ITP/Thesis/RoomBuilder/obj/Debug/UnityEditor.TestRunner.csproj.CoreCompileInputs.cache
